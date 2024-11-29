@@ -1,4 +1,4 @@
-{"name":"GORRA11","category":"Gorras","cost":48000,"rating":4,"image":"https://i.imgur.com/qArObWn.jpeg","_id":"01_01_Bl_002"}
+{"name":"GORRA SF Blanca","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/AnrpA4v.jpeg","_id":"01_01_Bl_002"}
 {"name":"GORRA LA Blanca","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/Obljxe7.jpeg","_id":"01_01_Bl_005"}
 {"name":"GORRA A`s Blanca_Verde","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/B2yIXDf.jpeg","_id":"01_01_Bl_008"}
 {"name":"GORRA NY Blanca_Azul","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/GZAqqAw.jpeg","_id":"01_01_Bl_009"}
@@ -12,12 +12,12 @@
 {"name":"GORRA NY Negra_Dorada","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/2GmVwL9.jpeg","_id":"01_01_Ne_011"}
 {"name":"GORRA NY Negra_Dorada 01","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/kjVYlEe.jpeg","_id":"01_01_Ne_012"}
 {"name":"GORRA Chicago Negra_Dorada","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/x13MBeu.jpeg","_id":"01_01_Ne_013"}
-{"name":"GORRA Atlentics Negra_Blanca","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/IACsnq4.jpeg","_id":"01_01_Ne_015"}
-{"name":"GORRA Atlentics Azul","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/3RmtVAi.jpeg","_id":"01_02_Az_008"}
+{"name":"GORRA Athletics Negra_Blanca","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/IACsnq4.jpeg","_id":"01_01_Ne_015"}
+{"name":"GORRA  Athletics Azul","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/3RmtVAi.jpeg","_id":"01_02_Az_008"}
 {"name":"GORRA Boos Azul","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/kjVYlEe.jpeg","_id":"01_02_Az_010"}
 {"name":"GORRA MST Blanca","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/WTB71TM.jpeg","_id":"01_02_Bl_002"}
 {"name":"GORRA Trail Blazer Blanca","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/LNFbKwp.jpeg","_id":"01_02_Bl_013"}
-{"name":"GORRA MULTIESTILO","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/kaOjuxV.jpeg","_id":"01_02_Bl_014"}
+{"name":"GORRA C Blanca","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/kaOjuxV.jpeg","_id":"01_02_Bl_014"}
 {"name":"GORRA B Blanca","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/DfZQlvY.jpeg","_id":"01_02_Gr_001"}
 {"name":"GORRA MA Beis_Colores","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/W3Elhgf.jpeg","_id":"01_02_Ma_012"}
 {"name":"GORRA XX Negra","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/38lGwUJ.jpeg","_id":"01_02_Ne_003"}
@@ -27,3 +27,63 @@
 {"name":"GORRA Boos Negra","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/djrR8Uh.jpeg","_id":"01_02_Ne_011"}
 {"name":"GORRA Dodgers Roja","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/XJNTr80.jpeg","_id":"01_02_Ro_006"}
 {"name":"GORRA Jeep Verde","category":"Gorras","cost":45000,"rating":5,"image":"https://i.imgur.com/lyC1fNW.jpeg","_id":"01_02_Ve_009"}
+{"name":"Camisa _ Sello Navidad (Tela.Galleta _Caballero Talla: S- M- L- XL)","category":"Navidad","cost":40000,"rating":5,"image":"https://i.imgur.com/Q0sQbuL.png","_id":"14_01_00_023"}
+{"name":"Camisa _ Sello Navidad OVERSIZE (Tela.Galleta _Caballero Talla: S- M- L- XL)","category":"Navidad","cost":45000,"rating":5,"image":"https://i.imgur.com/Q0sQbuL.png","_id":"14_01_00_024"}
+{"name":"Camisa _ Grinch  (Tela.Galleta _Caballero Talla: S- M- L- XL)","category":"Navidad","cost":45000,"rating":5,"image":"https://i.imgur.com/6RVDIvR.png","_id":"14_01_00_025"}
+{"name":"Camisa _ Grinch  OVERSIZE (Tela.Galleta _Caballero Talla: S- M- L- XL)","category":"Navidad","cost":50000,"rating":5,"image":"https://i.imgur.com/6RVDIvR.png","_id":"14_01_00_026"}
+{"name":"Camisa _ Mery Christmas (Tela.Galleta _Caballero Talla: S- M- L- XL)","category":"Navidad","cost":45000,"rating":5,"image":"https://i.imgur.com/NaRNyh7.png","_id":"14_01_00_027"}
+{"name":"Camisa _ Mery Christmas OVERSIZE (Tela.Galleta _Caballero Talla: S- M- L- XL)","category":"Navidad","cost":50000,"rating":5,"image":"https://i.imgur.com/NaRNyh7.png","_id":"14_01_00_028"}
+{"name":"Camisa _PapaNoel (Tela.Galleta _Caballero Talla: S- M- L- XL)","category":"Navidad","cost":45000,"rating":5,"image":"https://i.imgur.com/oBOWJm6.png","_id":"14_01_00_029"}
+{"name":"Camisa _ PapaNoel OVERSIZE (Tela.Galleta _Caballero Talla: S- M- L- XL)","category":"Navidad","cost":50000,"rating":5,"image":"https://i.imgur.com/oBOWJm6.png","_id":"14_01_00_030"}
+{"name":"Camisa _ Ketnipz de Navidad (Tela.Galleta _Caballero Talla: S- M- L- XL)","category":"Navidad","cost":40000,"rating":5,"image":"https://i.imgur.com/RcDCZz5.png","_id":"14_01_00_031"}
+{"name":"Camisa _ Ketnipz de Navidad  OVERSIZE (Tela.Galleta _Caballero Talla: S- M- L- XL)","category":"Navidad","cost":45000,"rating":5,"image":"https://i.imgur.com/RcDCZz5.png","_id":"14_01_00_032"}
+{"name":"Camisa _ Ketnipz de Navidad (Tela.Galleta _DamaTalla: S- M- L- XL)","category":"Navidad","cost":40000,"rating":5,"image":"https://i.imgur.com/NTiMBUm.png","_id":"14_01_00_033"}
+{"name":"Camisa _ Ketnipz de Navidad OVERSIZE (Tela.Galleta _Dama Talla: S- M- L- XL)","category":"Navidad","cost":45000,"rating":5,"image":"https://i.imgur.com/NTiMBUm.png","_id":"14_01_00_034"}
+{"name":"Camisa _ Reno (Tela.Galleta _DamaTalla: S- M- L- XL)","category":"Navidad","cost":40000,"rating":5,"image":"https://i.imgur.com/M9x3QBt.png","_id":"14_01_00_035"}
+{"name":"Camisa _ Reno OVERSIZE (Tela.Galleta _Dama Talla: S- M- L- XL)","category":"Navidad","cost":45000,"rating":5,"image":"https://i.imgur.com/M9x3QBt.png","_id":"14_01_00_036"}
+{"name":"Camisa _ Reno con Gorro (Tela.Galleta _DamaTalla: S- M- L- XL)","category":"Navidad","cost":40000,"rating":5,"image":"https://i.imgur.com/Y7OvQjX.png","_id":"14_01_00_037"}
+{"name":"Camisa _ Reno con Gorro OVERSIZE (Tela.Galleta _Dama Talla: S- M- L- XL)","category":"Navidad","cost":45000,"rating":5,"image":"https://i.imgur.com/Y7OvQjX.png","_id":"14_01_00_038"}
+{"name":"Camisa _ Mery Christmas (Tela.Galleta _DamaTalla: S- M- L- XL)","category":"Navidad","cost":40000,"rating":5,"image":"https://i.imgur.com/AUHEJQ7.png","_id":"14_01_00_039"}
+{"name":"Camisa _Mery Christmas OVERSIZE (Tela.Galleta _Dama Talla: S- M- L- XL)","category":"Navidad","cost":45000,"rating":5,"image":"https://i.imgur.com/AUHEJQ7.png","_id":"14_01_00_040"}
+{"name":"Camisa _Feliz Natal (Tela.Galleta _DamaTalla: S- M- L- XL)","category":"Navidad","cost":40000,"rating":5,"image":"https://i.imgur.com/W1UBEZz.png","_id":"14_01_00_041"}
+{"name":"Camisa _Feliz Natal OVERSIZE (Tela.Galleta _Dama Talla: S- M- L- XL)","category":"Navidad","cost":45000,"rating":5,"image":"https://i.imgur.com/W1UBEZz.png","_id":"14_01_00_042"}
+{"name":"Camisa _Grinch (Tela.Galleta _DamaTalla: S- M- L- XL)","category":"Navidad","cost":40000,"rating":5,"image":"https://i.imgur.com/IY8Cp6T.png","_id":"14_01_00_043"}
+{"name":"Camisa _Grinch OVERSIZE (Tela.Galleta _Dama Talla: S- M- L- XL)","category":"Navidad","cost":45000,"rating":5,"image":"https://i.imgur.com/IY8Cp6T.png","_id":"14_01_00_044"}
+{"name":"Camisa _Feliz Navidad (Tela.Galleta _DamaTalla: S- M- L- XL)","category":"Navidad","cost":40000,"rating":5,"image":"https://i.imgur.com/nPyWZiq.png","_id":"14_01_00_045"}
+{"name":"Camisa _Feliz Navidad OVERSIZE (Tela.Galleta _Dama Talla: S- M- L- XL)","category":"Navidad","cost":45000,"rating":5,"image":"https://i.imgur.com/nPyWZiq.png","_id":"14_01_00_046"}
+{"name":"Camisa _ Noche Buena ( Dama Talla: S- M- L- XL)","category":"Navidad","cost":25000,"rating":5,"image":"https://i.imgur.com/u5wS1xb.png","_id":"14_01_Az_018"}
+{"name":"Camisa _ Noche Buena ( Caballero Talla: S- M- L- XL)","category":"Navidad","cost":28000,"rating":5,"image":"https://i.imgur.com/u5wS1xb.png","_id":"14_01_Az_056"}
+{"name":"Camisa NiÑos_Ketnipz de Navidad (Talla:2 a la 16)","category":"Navidad","cost":20000,"rating":5,"image":"https://i.imgur.com/eOMhTwO.png","_id":"14_01_Bl_002"}
+{"name":"Camisa NiÑos_ Pingüino  (Talla:2 a la 16)","category":"Navidad","cost":20000,"rating":5,"image":"https://i.imgur.com/KNCPI36.png","_id":"14_01_Bl_004"}
+{"name":"Camisa NiÑos_Grinch (Talla:2 a la 16)","category":"Navidad","cost":20000,"rating":5,"image":"https://i.imgur.com/BMuvHYt.png","_id":"14_01_Bl_006"}
+{"name":"Camisa _ Arbol de Navidad ( Dama  Talla: S- M- L- XL)","category":"Navidad","cost":25000,"rating":5,"image":"https://i.imgur.com/NIwdfcK.png","_id":"14_01_Bl_009"}
+{"name":"Camisa _ HO HO HO  ( Dama Talla: S- M- L- XL)","category":"Navidad","cost":25000,"rating":5,"image":"https://i.imgur.com/O4l9cl0.png","_id":"14_01_Bl_011"}
+{"name":"Camisa _Feliz Navidad Negra ( Dama o Caballero Talla: S- M- L- XL)","category":"Navidad","cost":25000,"rating":5,"image":"https://i.imgur.com/c44uosJ.png","_id":"14_01_Bl_012"}
+{"name":"Camisa _ Merry Christmas Blanca ( Dama  Talla: S- M- L- XL)","category":"Navidad","cost":25000,"rating":5,"image":"https://i.imgur.com/W6LdfBy.png","_id":"14_01_Bl_015"}
+{"name":"Camisa _ Feliz Año_1 ( Dama  Talla: S- M- L- XL)","category":"Navidad","cost":25000,"rating":5,"image":"https://i.imgur.com/m1d5CBv.png","_id":"14_01_Bl_019"}
+{"name":"Camisa _ Feliz Año_2 ( Dama  Talla: S- M- L- XL)","category":"Navidad","cost":25000,"rating":5,"image":"https://i.imgur.com/ycTMevD.png","_id":"14_01_Bl_020"}
+{"name":"Camisa _ Feliz Año_3 ( Dama  Talla: S- M- L- XL)","category":"Navidad","cost":25000,"rating":5,"image":"https://i.imgur.com/HIMogqJ.png","_id":"14_01_Bl_021"}
+{"name":"Camisa _ Feliz Año_4 ( Dama  Talla: S- M- L- XL)","category":"Navidad","cost":25000,"rating":5,"image":"https://i.imgur.com/JaWFX0w.png","_id":"14_01_Bl_022"}
+{"name":"Camisa _ Arbol de Navidad ( Caballero Talla: S- M- L- XL)","category":"Navidad","cost":28000,"rating":5,"image":"https://i.imgur.com/NIwdfcK.png","_id":"14_01_Bl_047"}
+{"name":"Camisa _ HO HO HO  ( Caballero Talla: S- M- L- XL)","category":"Navidad","cost":28000,"rating":5,"image":"https://i.imgur.com/O4l9cl0.png","_id":"14_01_Bl_049"}
+{"name":"Camisa _Feliz Navidad Negra (  Caballero Talla: S- M- L- XL)","category":"Navidad","cost":28000,"rating":5,"image":"https://i.imgur.com/c44uosJ.png","_id":"14_01_Bl_050"}
+{"name":"Camisa _ Merry Christmas Blanca (  Caballero Talla: S- M- L- XL)","category":"Navidad","cost":28000,"rating":5,"image":"https://i.imgur.com/W6LdfBy.png","_id":"14_01_Bl_053"}
+{"name":"Camisa _ Feliz Año_1 (  Caballero Talla: S- M- L- XL)","category":"Navidad","cost":28000,"rating":5,"image":"https://i.imgur.com/m1d5CBv.png","_id":"14_01_Bl_057"}
+{"name":"Camisa _ Feliz Año_2 (  Caballero Talla: S- M- L- XL)","category":"Navidad","cost":28000,"rating":5,"image":"https://i.imgur.com/ycTMevD.png","_id":"14_01_Bl_058"}
+{"name":"Camisa _ Feliz Año_3 (  Caballero Talla: S- M- L- XL)","category":"Navidad","cost":28000,"rating":5,"image":"https://i.imgur.com/HIMogqJ.png","_id":"14_01_Bl_059"}
+{"name":"Camisa _ Feliz Año_4 (  Caballero Talla: S- M- L- XL)","category":"Navidad","cost":28000,"rating":5,"image":"https://i.imgur.com/JaWFX0w.png","_id":"14_01_Bl_060"}
+{"name":"Camisa _Belen ( Dama  Talla: S- M- L- XL)","category":"Navidad","cost":25000,"rating":5,"image":"https://i.imgur.com/PoJEeiE.png","_id":"14_01_Ne_010"}
+{"name":"Camisa _Feliz Navidad Blanca ( DamaTalla: S- M- L- XL)","category":"Navidad","cost":25000,"rating":5,"image":"https://i.imgur.com/KAffcrT.png","_id":"14_01_Ne_013"}
+{"name":"Camisa _Belen ( Caballero Talla: S- M- L- XL)","category":"Navidad","cost":28000,"rating":5,"image":"https://i.imgur.com/PoJEeiE.png","_id":"14_01_Ne_048"}
+{"name":"Camisa _Feliz Navidad Blanca (  Caballero Talla: S- M- L- XL)","category":"Navidad","cost":28000,"rating":5,"image":"https://i.imgur.com/KAffcrT.png","_id":"14_01_Ne_051"}
+{"name":"Camisa NiÑos_ Arbol de Navidad  (Talla:2 a la 16)","category":"Navidad","cost":23000,"rating":5,"image":"https://i.imgur.com/leC5wTs.png","_id":"14_01_Ro_001"}
+{"name":"Camisa NiÑos_ Sagrada Familia Navidad (Talla:2 a la 16)","category":"Navidad","cost":23000,"rating":5,"image":"https://i.imgur.com/rTYVwwI.png","_id":"14_01_Ro_003"}
+{"name":"Camisa NiÑos_ Renno Navidad","category":"Navidad","cost":23000,"rating":5,"image":"https://i.imgur.com/RIUC82A.png","_id":"14_01_Ro_005"}
+{"name":"Camisa NiÑos_ Carta de Navidad (Talla:2 a la 16)","category":"Navidad","cost":23000,"rating":5,"image":"https://i.imgur.com/9RBhPGB.png","_id":"14_01_Ro_007"}
+{"name":"Camisa NiÑos_Muñeco de Navidad (Talla:2 a la 16)","category":"Navidad","cost":23000,"rating":5,"image":"https://i.imgur.com/TlVSlNZ.png","_id":"14_01_Ro_008"}
+{"name":"Camisa _Feliz Navidad Roja ( Dama Talla: S- M- L- XL)","category":"Navidad","cost":25000,"rating":5,"image":"https://i.imgur.com/u9RlWTz.png","_id":"14_01_Ro_014"}
+{"name":"Camisa _ Merry Christmas Roja ( DamaTalla: S- M- L- XL)","category":"Navidad","cost":25000,"rating":5,"image":"https://i.imgur.com/PnAB6Ep.png","_id":"14_01_Ro_016"}
+{"name":"Camisa _ Merry Christmas Roja Reno ( Dama Talla: S- M- L- XL)","category":"Navidad","cost":25000,"rating":5,"image":"https://i.imgur.com/RPepF5W.png","_id":"14_01_Ro_017"}
+{"name":"Camisa _Feliz Navidad Roja (  Caballero Talla: S- M- L- XL)","category":"Navidad","cost":28000,"rating":5,"image":"https://i.imgur.com/u9RlWTz.png","_id":"14_01_Ro_052"}
+{"name":"Camisa _ Merry Christmas Roja ( Caballero Talla: S- M- L- XL)","category":"Navidad","cost":28000,"rating":5,"image":"https://i.imgur.com/PnAB6Ep.png","_id":"14_01_Ro_054"}
+{"name":"Camisa _ Merry Christmas Roja Reno ( Caballero Talla: S- M- L- XL)","category":"Navidad","cost":28000,"rating":5,"image":"https://i.imgur.com/RPepF5W.png","_id":"14_01_Ro_055"}
