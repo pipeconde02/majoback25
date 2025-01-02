@@ -31,7 +31,7 @@ router.get("/whatsapp-link", verifyAuth, (req, res) => {
     const mensaje = `Hola, este es mi pedido.\nCliente: ${username}\nDireccion: ${address}\nProductos:\n${productosTexto.join('\n')}\nTotal parcial: $${totalParcial}`;
     
     // Crear el enlace de WhatsApp con el número específico
-    const numeroWhatsApp = '573128044005'; // Reemplaza con tu número en formato internacional sin '+'
+    const numeroWhatsApp = '573164121112'; // Reemplaza con tu número en formato internacional sin '+'
     const mensajeCodificado = encodeURIComponent(mensaje);
     const enlaceWhatsApp = `https://wa.me/${numeroWhatsApp}?text=${mensajeCodificado}`;
     
